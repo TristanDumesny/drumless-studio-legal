@@ -1,0 +1,70 @@
+{
+  "product": "Drumless Studio",
+  "version": "1.0.0",
+  "publicationDate": "2026-08-22",
+  "documents": [
+    {
+      "title": "End User Licence Agreement",
+      "source": "legal/EULA.md",
+      "files": [
+        "Drumless-Studio-EULA.pdf",
+        "Drumless-Studio-EULA.docx",
+        "Drumless-Studio-EULA.txt",
+        "Drumless-Studio-EULA.md"
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "source": "legal/PRIVACY-POLICY.md",
+      "files": [
+        "Drumless-Studio-Privacy-Policy.pdf",
+        "Drumless-Studio-Privacy-Policy.docx",
+        "Drumless-Studio-Privacy-Policy.txt",
+        "Drumless-Studio-Privacy-Policy.md"
+      ]
+    },
+    {
+      "title": "Subscription and Billing Terms",
+      "source": "legal/SUBSCRIPTION-AND-BILLING-TERMS.md",
+      "files": [
+        "Drumless-Studio-Subscription-and-Billing-Terms.pdf",
+        "Drumless-Studio-Subscription-and-Billing-Terms.docx",
+        "Drumless-Studio-Subscription-and-Billing-Terms.txt",
+        "Drumless-Studio-Subscription-and-Billing-Terms.md"
+      ]
+    },
+    {
+      "title": "Website Terms of Use",
+      "source": "legal/WEBSITE-TERMS-OF-USE.md",
+      "files": [
+        "Drumless-Studio-Website-Terms-of-Use.pdf",
+        "Drumless-Studio-Website-Terms-of-Use.docx",
+        "Drumless-Studio-Website-Terms-of-Use.txt",
+        "Drumless-Studio-Website-Terms-of-Use.md"
+      ]
+    },
+    {
+      "title": "Copyright and Audio Rights Notice",
+      "source": "legal/COPYRIGHT-AND-AUDIO-RIGHTS.md",
+      "files": [
+        "Drumless-Studio-Copyright-and-Audio-Rights.pdf",
+        "Drumless-Studio-Copyright-and-Audio-Rights.docx",
+        "Drumless-Studio-Copyright-and-Audio-Rights.txt",
+        "Drumless-Studio-Copyright-and-Audio-Rights.md"
+      ]
+    },
+    {
+      "title": "Third-Party Notices",
+      "source": "legal/THIRD-PARTY-NOTICES.txt",
+      "files": [
+        "Drumless-Studio-Third-Party-Notices.pdf",
+        "Drumless-Studio-Third-Party-Notices.docx",
+        "Drumless-Studio-Third-Party-Notices.txt"
+      ]
+    }
+  ],
+  "supplementalFiles": [
+    "Drumless-Studio-LGPL-3.0.txt",
+    "Drumless-Studio-LGPL-2.1.txt"
+  ]
+}
