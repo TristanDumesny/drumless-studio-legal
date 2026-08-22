@@ -1,0 +1,95 @@
+Copyright and Audio Rights Notice - Drumless Studio
+
+Publisher: TristanDumesny  
+Application: Drumless Studio  
+Contact: drumlessstudio@gmail.com  
+Last updated: 22 August 2026
+
+This notice explains the relationship between Drumless Studio and audio selected
+by a user. It supplements the End User Licence Agreement and is not a grant of
+rights in any recording or composition.
+
+1. Drumless Studio does not supply music
+
+Drumless Studio is a local audio-processing tool. The Publisher does not provide,
+host, sell, recommend or distribute songs, recordings, compositions, artwork or
+lyrics for users to process.
+
+Public screenshots and Store-listing demonstrations use fictional titles and
+Publisher-controlled presentation material. A fictional filename does not make
+third-party audio lawful to publish.
+
+2. Your responsibility for audio rights
+
+Only process audio that you own or for which you have all licences, permissions,
+consents or legal rights needed for the intended use.
+
+Depending on the material, intended use and jurisdiction, relevant rights may
+include rights in:
+
+- the sound recording;
+- the musical composition and arrangement;
+- lyrics;
+- performances and moral rights;
+- artwork, names, likenesses and metadata; and
+- synchronization, public performance, communication, distribution or
+  commercial use.
+
+Private practice, research, education, fair dealing, fair use or another legal
+exception may apply differently between jurisdictions. The App does not decide
+whether an exception applies.
+
+3. Outputs do not create new underlying rights
+
+Separated stems, drumless mixes, click tracks and other outputs are generated
+from audio supplied by the user. They may reproduce protected elements of that
+audio. Creating or exporting an output does not transfer ownership of the source
+recording or composition and does not give permission to publish, perform, sell,
+share or synchronize it.
+
+4. Store screenshots, demonstrations and promotional video
+
+Do not use commercial songs, recognizable artist names, album artwork, lyrics or
+unlicensed recordings in public Store screenshots, advertising, tutorials or
+demo videos.
+
+For public demonstrations, use:
+
+- an original recording made for Drumless Studio with written contributor
+  releases;
+- a commissioned recording with express worldwide commercial advertising,
+  modification and synchronization rights; or
+- a genuinely public-domain or CC0 recording with archived source and licence
+  evidence.
+
+Keep receipts, contributor releases, source URLs, licence text and attribution
+requirements with the release records.
+
+5. Drumless Studio branding
+
+The Drumless Studio name, pulse logo, original App interface and Publisher-created
+marketing assets are owned by or licensed to the Publisher. The downloadable
+logo pack is supplied for the Publisher's own product, Store, website, press and
+platform use. It does not grant an unrelated party the right to impersonate the
+Publisher or present another product as Drumless Studio.
+
+6. Copyright concerns
+
+If you believe Publisher-controlled website or Store material infringes your
+rights, email drumlessstudio@gmail.com with:
+
+- your name and contact details;
+- identification of the work or right concerned;
+- the exact URL, screenshot or material at issue;
+- the basis on which you own or represent the relevant rights; and
+- the action you request.
+
+Do not send sensitive identity documents or copyrighted audio unless reasonably
+necessary. Support information is handled under the Privacy Policy.
+
+The Publisher cannot inspect or remove audio stored only on another user's local
+device because Drumless Studio does not receive or host local project files.
+
+7. Contact
+
+drumlessstudio@gmail.com

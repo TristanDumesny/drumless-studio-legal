@@ -1,0 +1,190 @@
+Privacy Policy - Drumless Studio
+
+Publisher: TristanDumesny  
+Application: Drumless Studio  
+Contact: drumlessstudio@gmail.com  
+Last updated: 22 August 2026
+
+Summary
+
+Drumless Studio processes your audio locally on your device. The App does not
+upload your audio to us and does not include our own analytics, advertising or
+tracking system.
+
+Some optional network features involve Microsoft or third-party download
+providers. Those providers may receive standard connection information, such as
+your IP address, when their services are used. If you contact us for support, we
+receive the information you choose to send.
+
+The public Drumless Studio website and legal-document downloads are hosted by
+GitHub Pages. We do not add our own analytics or advertising to that site, but
+GitHub may process standard website and device information under its own privacy
+statement.
+
+1. Audio and project files
+
+Audio files you open in Drumless Studio, and files the App creates from them,
+including separated stems, mixes, click tracks and analysis data, are processed
+on your device.
+
+- The App does not upload your audio to us for processing.
+- We do not remotely access, monitor, hear or store your local projects.
+- Project and output files are written to locations on your computer, including
+  locations you select. By default, managed projects and downloaded models are
+  kept under Documents\Drumless Studio, and exports are saved to your Downloads
+  folder or another location you choose.
+- The App stores local settings and preferences, including theme, processing
+  choices and the date and version of your acceptance of the App's terms.
+- Using the App's project-deletion function removes files managed by that project
+  where technically possible. It does not remove copies you exported, moved or
+  backed up elsewhere.
+
+We cannot recover local files that you delete. Keep backups of important files.
+
+2. Public website and document downloads
+
+The public Drumless Studio website is a static information and legal-document
+site hosted through GitHub Pages. We do not operate a website account system and
+do not add publisher analytics, advertising pixels, behavioural profiling or
+marketing cookies to the site.
+
+When you visit or download a document, GitHub may automatically process
+information needed to provide, protect and understand use of its hosting
+service, such as your IP address, browser and device information, referring
+page, requested pages or files, request date and time, and interactions with
+links. GitHub may use cookies or similar technologies as described in its own
+policies. We do not receive your full GitHub account credentials or payment
+details from a website visit.
+
+GitHub describes its handling of this information in the GitHub General Privacy
+Statement:
+https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+
+If the website later adds a contact form, newsletter, publisher analytics,
+advertising, embedded media or another data-collecting feature, this policy must
+be updated before or when that feature is enabled.
+
+3. Information sent to the Publisher
+
+The App does not operate a Drumless Studio user-account system and does not send
+us analytics, advertising identifiers or telemetry.
+
+If you contact us by email or otherwise request support, we may receive:
+
+- your name and email address;
+- the contents of your message;
+- device, App-version or diagnostic details you choose to provide; and
+- files or screenshots you choose to attach.
+
+Do not send copyrighted or sensitive audio unless it is necessary and you have
+the right to send it. We use support information only to respond, troubleshoot,
+protect the App and keep reasonable business records. We retain it only for as
+long as reasonably needed for those purposes or as required by law.
+
+4. Microsoft Store information
+
+Drumless Studio is distributed through the Microsoft Store. Microsoft may
+process personal, account, device, licence, payment and transaction information
+when you view, install, purchase, update or manage the App.
+
+Microsoft handles that information under its own privacy statement:
+https://privacy.microsoft.com/privacystatement
+
+We may receive Store reports such as install, acquisition, sales, refund and
+subscription figures. Depending on the report and Microsoft settings, this may
+be aggregated or otherwise limited. We do not receive your full payment-card
+details.
+
+The App may ask Windows and the Microsoft Store on your device whether a valid
+licence or entitlement exists. That process is provided by Microsoft.
+
+The App also requests the subscription listings and localized prices available
+to your Microsoft account and region. If the Store cannot provide a price, the
+App shows that plan as unavailable rather than substituting a different price.
+
+5. Network access and model downloads
+
+The App may access the internet to:
+
+- verify or refresh a Microsoft Store licence or entitlement;
+- obtain App updates through the Microsoft Store; and
+- download AI model files or related resources needed for optional features.
+
+The main separation and beat-analysis models are bundled with the App. If you
+select the optional lead/backing-vocal feature, additional UVR model files may be
+downloaded on demand by the audio-separator component from its configured model
+repository and stored under Documents\Drumless Studio\models.
+
+The App does not include your audio in those requests. However, Microsoft and
+third-party model-hosting providers may receive standard technical information
+needed to provide the connection, such as IP address, request time, requested
+file, network headers and basic device or software information.
+
+Third-party model sources and relevant licence information should be identified
+in the App's Third-Party Notices. Those providers process connection information
+under their own privacy terms.
+
+6. Sharing and sale of information
+
+We do not sell personal information and do not share your local audio or project
+files.
+
+Information may be handled by service providers only where needed to provide a
+service you request, including:
+
+- Microsoft, for Store distribution, licensing, purchases and updates;
+- Google, where you contact our Gmail support address; and
+- third-party model-hosting providers, when the App downloads an optional model.
+
+We may also disclose information where required by law or reasonably necessary
+to protect legal rights, users or the security of the App.
+
+7. Overseas processing
+
+Microsoft, Google and model-hosting providers may process information in
+countries outside Australia. Their locations and safeguards are governed by
+their own privacy terms and infrastructure.
+
+8. Children
+
+Drumless Studio is not specifically directed at children. The App does not
+knowingly operate a system for collecting children's personal information.
+Microsoft account, purchase and parental-consent requirements may apply through
+the Microsoft Store.
+
+9. Your rights
+
+Your privacy rights depend on the laws that apply to you and the organisation
+holding the information.
+
+Because we do not receive your local audio or projects, we cannot access,
+correct, export or delete those files for you. You can manage project storage in
+the App or directly on your device. Deleting a managed project does not delete
+copies you previously exported, moved or backed up.
+
+For support information that we hold, you may contact us to request access,
+correction or deletion. We will respond as required by applicable law, including
+the Privacy Act 1988 (Cth) where it applies.
+
+For information held by Microsoft, use your Microsoft account privacy controls:
+https://account.microsoft.com/privacy
+
+10. Security
+
+The security of local audio and project files depends mainly on your device and
+the locations where you save them. Keep Windows and the App updated, use a strong
+device password, and consider disk encryption for sensitive files.
+
+We use reasonable measures to protect support information we receive, but no
+email or storage system can be guaranteed completely secure.
+
+11. Changes
+
+We may update this policy when the App, its network features or applicable laws
+change. The current version will be made available through the App or the
+Microsoft Store listing. Material changes will be notified through the App or
+Store listing.
+
+12. Contact
+
+drumlessstudio@gmail.com

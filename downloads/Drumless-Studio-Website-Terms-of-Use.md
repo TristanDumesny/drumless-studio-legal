@@ -1,0 +1,101 @@
+# Website Terms of Use - Drumless Studio
+
+**Website operator:** TristanDumesny ("Publisher", "we", "us", "our")  
+**Website:** Drumless Studio public information and legal-document website  
+**Contact:** drumlessstudio@gmail.com  
+**Last updated:** 22 August 2026
+
+By using the Drumless Studio website, you agree to these Website Terms of Use.
+If you use the App, the End User Licence Agreement and Microsoft Store terms also
+apply.
+
+---
+
+## 1. Purpose of the website
+
+The website provides information about Drumless Studio, support contact details,
+Store-listing material and downloadable legal documents. It does not itself
+process songs, sell subscriptions, manage Microsoft accounts or provide cloud
+project storage.
+
+## 2. Acceptable use
+
+You must not use the website to:
+
+- break any law or infringe another person's rights;
+- interfere with the website, hosting platform or another person's access;
+- introduce malicious code, probe security without authorization or attempt to
+  gain unauthorized access;
+- misrepresent your relationship with Drumless Studio or the Publisher; or
+- copy or reuse the Drumless Studio name, logo or website content in a way that
+  falsely suggests endorsement, affiliation or ownership.
+
+Ordinary browsing, linking to public pages and downloading the legal documents
+for personal reference are permitted.
+
+## 3. Intellectual property
+
+The Drumless Studio name, logo, original website design, App screenshots and
+Publisher-authored text are owned by or licensed to the Publisher. Except as
+allowed by law or expressly stated, no right to reproduce, modify, distribute,
+sell, sublicense or create misleading derivative branding is granted.
+
+Third-party names, software and licence texts remain the property of their
+respective owners and are identified in the Third-Party Notices.
+
+## 4. App and subscription information
+
+The website may summarize App features, pricing and subscriptions. The Microsoft
+Store purchase screen controls the current localized price, billing period,
+availability, taxes and renewal terms. The App's EULA and Subscription and
+Billing Terms control product use and entitlement behaviour.
+
+## 5. External links and hosting
+
+The website may link to Microsoft, GitHub and other third-party services. Those
+services are controlled by their operators and have their own terms and privacy
+practices. A link does not necessarily mean that the Publisher endorses every
+statement, product or service on the linked site.
+
+The website is hosted through GitHub Pages. Availability, security and technical
+delivery may depend on GitHub infrastructure outside the Publisher's control.
+
+## 6. Accuracy and availability
+
+We aim to keep the website accurate and current, but App features, prices,
+compatibility, Store availability and third-party information may change. The
+Microsoft Store listing and purchase screen should be checked before purchasing.
+
+We do not promise uninterrupted website availability. We may correct, replace or
+remove website material where reasonably necessary.
+
+## 7. Consumer rights and liability
+
+Nothing in these terms excludes, restricts or modifies rights or remedies that
+cannot lawfully be excluded, including rights under the Australian Consumer Law.
+
+Subject to those rights, and to the maximum extent permitted by law, the website
+is provided for general information and we are not liable for indirect or
+consequential loss caused solely by reliance on outdated website material where
+the current Store or App information was reasonably available.
+
+## 8. Privacy
+
+The Privacy Policy explains App, website-hosting and support-email data handling.
+The website does not add Publisher analytics or advertising, but GitHub may
+process standard website information as its hosting provider.
+
+## 9. Changes to these terms
+
+We may update these terms prospectively when the website, App, hosting, law or
+business practices change. The current version will show its last-updated date.
+
+## 10. Governing law
+
+These terms are governed by the laws of Victoria, Australia. Courts of Victoria
+and the Commonwealth of Australia have non-exclusive jurisdiction. Mandatory
+consumer laws in a visitor's place of residence may also apply.
+
+## 11. Contact
+
+drumlessstudio@gmail.com

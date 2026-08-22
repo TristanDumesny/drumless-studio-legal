@@ -1,0 +1,224 @@
+DRUMLESS STUDIO - THIRD-PARTY NOTICES
+Version 1.0.0 - 22 August 2026
+=====================================
+
+Drumless Studio incorporates the third-party software and model files listed
+below. Each component remains the property of its owner and is used under the
+licence shown. Licence notices are reproduced in PART B or supplied as separate
+licence files alongside the App, as identified below.
+
+Drumless Studio does NOT include, provide or grant rights to any musical
+recording or composition. It processes audio supplied by the user. See the End
+User Licence Agreement.
+
+
+PART A - COMPONENTS
+===================
+
+1. FFmpeg
+   Licence : GNU Lesser General Public License v3 (LGPL-3.0)
+   Website : https://ffmpeg.org
+   Build   : ffmpeg-master-latest-win64-lgpl, https://github.com/BtbN/FFmpeg-Builds
+   Verified: build configuration contains no --enable-gpl; libx264, libx265 and
+             libxvid are explicitly disabled. Confirmed from the exact bundled
+             binary's own `-version` output on 4 August 2026.
+   Notes   : Distributed as a separate, unmodified executable (ffmpeg.exe) and
+             invoked as an independent process. Drumless Studio does not link
+             against FFmpeg libraries. Under LGPL-3.0 section 4 you may replace
+             the bundled binary: substitute <install directory>\ffmpeg.exe with
+             your own compatible build. Complete corresponding source for the
+             bundled build is available from the FFmpeg project and the build
+             repository above.
+
+2. Demucs (Hybrid Transformer Demucs) - model weights bundled
+   Licence : MIT License - Copyright (c) Meta Platforms, Inc. and affiliates
+   Website : https://github.com/facebookresearch/demucs
+   Files   : 955717e8-8726e21a.th, 5c90dfd2-34c22ccb.th
+   Purpose : Music source separation (4-stem and 6-stem)
+
+3. Beat This! - model weights bundled
+   Licence : MIT License
+             Copyright (c) 2024 Institute of Computational Perception,
+             Johannes Kepler University Linz, Austria
+   Website : https://github.com/CPJKU/beat_this
+   Files   : beat_this-small0.ckpt, beat_this-final0.ckpt
+   Purpose : Beat, downbeat and tempo detection
+
+4. PyTorch
+   Licence : BSD 3-Clause License
+             Copyright (c) Meta Platforms, Inc. and affiliates
+   Website : https://pytorch.org
+
+5. NumPy / SciPy
+   Licence : BSD 3-Clause License
+   Websites: https://numpy.org  |  https://scipy.org
+
+6. librosa
+   Licence : ISC License
+   Website : https://librosa.org
+
+7. libsndfile / SoundFile
+   libsndfile : GNU Lesser General Public License v2.1 or later
+                https://libsndfile.github.io/libsndfile
+   SoundFile  : BSD 3-Clause License - Copyright (c) 2013 Bastian Bechtold
+                https://github.com/bastibe/python-soundfile
+   Notes      : libsndfile is used as a dynamically loaded library and may be
+                replaced with a compatible build, as the LGPL requires.
+
+8. FastAPI / Starlette / Pydantic / Uvicorn
+   Licences: MIT License (FastAPI, Starlette, Pydantic)
+             BSD 3-Clause License (Uvicorn)
+   Websites: https://fastapi.tiangolo.com  |  https://www.uvicorn.org
+
+9. Electron
+   Licence : MIT License
+             Copyright (c) Electron contributors
+             Copyright (c) 2013-2020 GitHub Inc.
+   Website : https://electronjs.org
+   Notes   : See LICENSE.electron.txt included with this application.
+
+10. Chromium and its third-party components
+    Licences: BSD 3-Clause License and others
+    Website : https://www.chromium.org
+    Notes   : See LICENSES.chromium.html included with this application, which
+              contains the notices for Chromium and its bundled components.
+
+11. React
+    Licence : MIT License
+              Copyright (c) Meta Platforms, Inc. and affiliates
+    Website : https://react.dev
+
+12. JSZip
+    Licence : MIT License
+    Website : https://stuk.github.io/jszip
+
+13. Ultimate Vocal Remover (UVR) community models - downloaded at runtime
+    Models  : UVR-BVE-4B_SN-44100-2.pth  (VR architecture)
+              UVR_MDXNET_KARA_2.onnx     (MDX-Net architecture, fallback)
+    Authors : Anjok07 and aufr33 (UVR project) and contributors
+    Project : https://github.com/Anjok07/ultimatevocalremovergui
+    Source  : https://github.com/TRvlvr/model_repo/releases/
+              (resolved by the audio-separator package at runtime)
+    Purpose : Optional lead / backing vocal separation
+    Credit  : The UVR project asks that third-party applications using its
+              models credit UVR and its developers. That credit is given here.
+    Notes   : These weight files are downloaded on demand to the user's own
+              machine and are NOT redistributed inside this package. The UVR
+              repository licenses its own source code under the MIT License but
+              publishes no separate licence for the model weight files.
+
+14. audio-separator
+    Licence : MIT License
+    Project : https://github.com/nomadkaraoke/python-audio-separator
+    Purpose : Runs the vocal-separation models listed above. Its MIT licence
+              covers its own code only, not the separately downloaded weights.
+
+15. Inter typeface
+    Licence : SIL Open Font License 1.1
+    Website : https://rsms.me/inter
+
+
+
+PART B - FULL LICENCE TEXTS
+===========================
+
+------------------------------------------------------------------------------
+MIT LICENSE
+------------------------------------------------------------------------------
+Applies to: Demucs (Copyright (c) Meta Platforms, Inc. and affiliates);
+Beat This! (Copyright (c) 2024 Institute of Computational Perception, JKU Linz,
+Austria); FastAPI, Starlette and Pydantic (Copyright (c) their respective
+authors); Electron (Copyright (c) Electron contributors; Copyright (c)
+2013-2020 GitHub Inc.); React (Copyright (c) Meta Platforms, Inc. and
+affiliates); JSZip (Copyright (c) 2009-2016 Stuart Knightley and contributors).
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+------------------------------------------------------------------------------
+BSD 3-CLAUSE LICENSE
+------------------------------------------------------------------------------
+Applies to: PyTorch (Copyright (c) Meta Platforms, Inc. and affiliates);
+NumPy (Copyright (c) 2005-2025 NumPy Developers); SciPy (Copyright (c)
+2001-2025 SciPy Developers); Uvicorn (Copyright (c) 2017-present Encode OSS
+Ltd); SoundFile (Copyright (c) 2013 Bastian Bechtold); Chromium (Copyright (c)
+The Chromium Authors).
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+------------------------------------------------------------------------------
+ISC LICENSE
+------------------------------------------------------------------------------
+Applies to: librosa (Copyright (c) 2013--2023, librosa development team).
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+------------------------------------------------------------------------------
+SIL OPEN FONT LICENSE 1.1
+------------------------------------------------------------------------------
+Applies to: Inter (Copyright (c) 2016-2023 The Inter Project Authors).
+The full text is available at https://openfontlicense.org and is reproduced
+with the font files.
+
+------------------------------------------------------------------------------
+GNU LESSER GENERAL PUBLIC LICENSE
+------------------------------------------------------------------------------
+Applies to: FFmpeg (LGPL-3.0) and libsndfile (LGPL-2.1-or-later).
+
+The complete LGPL texts are supplied with the App as LICENSE.LGPL-3.0.txt and
+LICENSE.LGPL-2.1.txt. They are also available at:
+  LGPL-3.0   https://www.gnu.org/licenses/lgpl-3.0.txt
+  LGPL-2.1   https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
+
+Both components are distributed unmodified and may be replaced by the user with
+compatible builds, as those licences require. Complete corresponding source is
+available from each project and from the build repositories identified in
+PART A. A copy may also be requested from drumlessstudio@gmail.com.
